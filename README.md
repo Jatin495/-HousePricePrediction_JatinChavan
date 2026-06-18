@@ -135,5 +135,4 @@ This project demonstrates how machine learning can be applied to predict house p
 ## 👨‍💻 Author
 
 **Jatin Rajesh Chavan**
-B.E. Computer Engineering
-Bharati Vidyapeeth College of Engineering, Lavale, Pune
+
